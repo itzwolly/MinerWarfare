@@ -1,5 +1,5 @@
 # Miner Warfare #
-A multipler 3rd person PVP game made in Unity (C#).
+A multiplayer 3rd person PVP game made in Unity (C#).
 
 # Made by #
 Oleksandr Mazur - Producer, Level Designer\
